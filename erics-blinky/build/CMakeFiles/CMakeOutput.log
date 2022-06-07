@@ -1,0 +1,404 @@
+The target system is: Generic - 2.7.99 - arm
+The host system is: Darwin - 20.6.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /opt/nordic/ncs/v1.9.1/toolchain/bin/arm-none-eabi-gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "/Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/3.21.1/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /opt/nordic/ncs/v1.9.1/toolchain/bin/arm-none-eabi-g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "/Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/3.21.1/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-none-eabi-gcc (GNU Tools for Arm Embedded Processors 9-2019-q4-major) 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599]
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_711ce && [1/2] Building C object CMakeFiles/cmTC_711ce.dir/src.c.obj
+[2/2] Linking C executable cmTC_711ce
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0_ succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_d20ef && [1/2] Building C object CMakeFiles/cmTC_d20ef.dir/src.c.obj
+[2/2] Linking C executable cmTC_d20ef
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_sign_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_fcffe && [1/2] Building C object CMakeFiles/cmTC_fcffe.dir/src.c.obj
+[2/2] Linking C executable cmTC_fcffe
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpointer_arith_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_5d89c && [1/2] Building C object CMakeFiles/cmTC_5d89c.dir/src.c.obj
+[2/2] Linking C executable cmTC_5d89c
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wexpansion_to_defined_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_852b0 && [1/2] Building C object CMakeFiles/cmTC_852b0.dir/src.c.obj
+[2/2] Linking C executable cmTC_852b0
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wlogical_op_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_37a54 && [1/2] Building C object CMakeFiles/cmTC_37a54.dir/src.c.obj
+[2/2] Linking C executable cmTC_37a54
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wmissing_field_initializers_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_5e368 && [1/2] Building C object CMakeFiles/cmTC_5e368.dir/src.c.obj
+[2/2] Linking C executable cmTC_5e368
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wpacked_bitfield_compat_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_a4dd9 && [1/2] Building C object CMakeFiles/cmTC_a4dd9.dir/src.c.obj
+[2/2] Linking C executable cmTC_a4dd9
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wvla_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_0f7ca && [1/2] Building C object CMakeFiles/cmTC_0f7ca.dir/src.c.obj
+[2/2] Linking C executable cmTC_0f7ca
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Wunused_but_set_variable_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_b8985 && [1/2] Building C object CMakeFiles/cmTC_b8985.dir/src.c.obj
+[2/2] Linking C executable cmTC_b8985
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_Werror_implicit_int_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_e1de4 && [1/2] Building C object CMakeFiles/cmTC_e1de4.dir/src.c.obj
+[2/2] Linking C executable cmTC_e1de4
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_freestanding_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_fb9d5 && [1/2] Building C object CMakeFiles/cmTC_fb9d5.dir/src.c.obj
+[2/2] Linking C executable cmTC_fb9d5
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_gdwarf_4_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_5a026 && [1/2] Building C object CMakeFiles/cmTC_5a026.dir/src.c.obj
+[2/2] Linking C executable cmTC_5a026
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___print_memory_usage succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_75142 && [1/2] Building C object CMakeFiles/cmTC_75142.dir/src.c.obj
+[2/2] Linking C executable cmTC_75142
+Memory region         Used Size  Region Size  %age Used
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fsanitize_address succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_62e1d && [1/2] Building C object CMakeFiles/cmTC_62e1d.dir/src.c.obj
+[2/2] Linking C executable cmTC_62e1d
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__fsanitize_undefined succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_b72f0 && [1/2] Building C object CMakeFiles/cmTC_b72f0.dir/src.c.obj
+[2/2] Linking C executable cmTC_b72f0
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__no_pie succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_e6435 && [1/2] Building C object CMakeFiles/cmTC_e6435.dir/src.c.obj
+[2/2] Linking C executable cmTC_e6435
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mcpu_cortex_m4 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_d1a77 && [1/2] Building C object CMakeFiles/cmTC_d1a77.dir/src.c.obj
+[2/2] Linking C executable cmTC_d1a77
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mthumb succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_9d40f && [1/2] Building C object CMakeFiles/cmTC_9d40f.dir/src.c.obj
+[2/2] Linking C executable cmTC_9d40f
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mabi_aapcs succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_7c035 && [1/2] Building C object CMakeFiles/cmTC_7c035.dir/src.c.obj
+[2/2] Linking C executable cmTC_7c035
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__mfp16_format_ieee succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_9f99d && [1/2] Building C object CMakeFiles/cmTC_9f99d.dir/src.c.obj
+[2/2] Linking C executable cmTC_9f99d
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___gc_sections succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_52940 && [1/2] Building C object CMakeFiles/cmTC_52940.dir/src.c.obj
+[2/2] Linking C executable cmTC_52940
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___build_id_none succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_56b96 && [1/2] Building C object CMakeFiles/cmTC_56b96.dir/src.c.obj
+[2/2] Linking C executable cmTC_56b96
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_common_descending succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_e7307 && [1/2] Building C object CMakeFiles/cmTC_e7307.dir/src.c.obj
+[2/2] Linking C executable cmTC_e7307
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___sort_section_alignment succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_4fb82 && [1/2] Building C object CMakeFiles/cmTC_4fb82.dir/src.c.obj
+[2/2] Linking C executable cmTC_4fb82
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__nostdlib succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_1c0cc && [1/2] Building C object CMakeFiles/cmTC_1c0cc.dir/src.c.obj
+[2/2] Linking C executable cmTC_1c0cc
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__static succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_b8fef && [1/2] Building C object CMakeFiles/cmTC_b8fef.dir/src.c.obj
+[2/2] Linking C executable cmTC_b8fef
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__X succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_a4af9 && [1/2] Building C object CMakeFiles/cmTC_a4af9.dir/src.c.obj
+[2/2] Linking C executable cmTC_a4af9
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl__N succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_db8f8 && [1/2] Building C object CMakeFiles/cmTC_db8f8.dir/src.c.obj
+[2/2] Linking C executable cmTC_db8f8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0__Wl___orphan_handling_warn succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_07d1a && [1/2] Building C object CMakeFiles/cmTC_07d1a.dir/src.c.obj
+[2/2] Linking C executable cmTC_07d1a
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_asynchronous_unwind_tables_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_414b5 && [1/2] Building C object CMakeFiles/cmTC_414b5.dir/src.c.obj
+[2/2] Linking C executable cmTC_414b5
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pie_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_a24e1 && [1/2] Building C object CMakeFiles/cmTC_a24e1.dir/src.c.obj
+[2/2] Linking C executable cmTC_a24e1
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_pic_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_3a54d && [1/2] Building C object CMakeFiles/cmTC_3a54d.dir/src.c.obj
+[2/2] Linking C executable cmTC_3a54d
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_strict_overflow_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_5cf15 && [1/2] Building C object CMakeFiles/cmTC_5cf15.dir/src.c.obj
+[2/2] Linking C executable cmTC_5cf15
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_reorder_functions_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_01222 && [1/2] Building C object CMakeFiles/cmTC_01222.dir/src.c.obj
+[2/2] Linking C executable cmTC_01222
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fno_defer_pop_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_7781d && [1/2] Building C object CMakeFiles/cmTC_7781d.dir/src.c.obj
+[2/2] Linking C executable cmTC_7781d
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map__Users_looki_Desktop_LastLock_Projects_erics_blinky_CMAKE_SOURCE_DIR_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_d05af && [1/2] Building C object CMakeFiles/cmTC_d05af.dir/src.c.obj
+[2/2] Linking C executable cmTC_d05af
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map__opt_nordic_ncs_v1_9_1_zephyr_ZEPHYR_BASE_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_a9ac8 && [1/2] Building C object CMakeFiles/cmTC_a9ac8.dir/src.c.obj
+[2/2] Linking C executable cmTC_a9ac8
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fmacro_prefix_map__opt_nordic_ncs_v1_9_1_WEST_TOPDIR_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_9740b && [1/2] Building C object CMakeFiles/cmTC_9740b.dir/src.c.obj
+[2/2] Linking C executable cmTC_9740b
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_ffunction_sections_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_ed284 && [1/2] Building C object CMakeFiles/cmTC_ed284.dir/src.c.obj
+[2/2] Linking C executable cmTC_ed284
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test check_fdata_sections_C__nostartfiles__nostdlib__isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include___isystem___opt_nordic_ncs_v1_9_1_toolchain_bin____lib_gcc_arm_none_eabi_9_2_1_include_fixed___Wl___unresolved_symbols_ignore_in_object_files__Wl___entry_0 succeeded with the following output:
+Change Dir: /Users/looki/Desktop/LastLock/Projects/erics-blinky/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/opt/nordic/ncs/v1.9.1/toolchain/bin/ninja cmTC_7a8af && [1/2] Building C object CMakeFiles/cmTC_7a8af.dir/src.c.obj
+[2/2] Linking C executable cmTC_7a8af
+
+
+Source file was:
+int main(void) { return 0; }

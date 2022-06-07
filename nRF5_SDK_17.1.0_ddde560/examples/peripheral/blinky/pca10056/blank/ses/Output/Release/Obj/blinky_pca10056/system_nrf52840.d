@@ -1,0 +1,26 @@
+Output/Release/Obj/blinky_pca10056/system_nrf52840.o: \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/system_nrf52840.c \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/system_nrf52.c \
+ /opt/nordic/ncs/v1.9.1/toolchain/segger_embedded_studio/include/stdint.h \
+ /opt/nordic/ncs/v1.9.1/toolchain/segger_embedded_studio/include/stdbool.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52840.h \
+ ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
+ ../../../../../../components/toolchain/cmsis/include/cmsis_version.h \
+ ../../../../../../components/toolchain/cmsis/include/cmsis_compiler.h \
+ ../../../../../../components/toolchain/cmsis/include/cmsis_gcc.h \
+ ../../../../../../components/toolchain/cmsis/include/mpu_armv7.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/system_nrf52840.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52840_bitfields.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf51_to_nrf52840.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52_to_nrf52840.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/compiler_abstraction.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf_peripherals.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52840_peripherals.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf_erratas.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf51_erratas.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf52_erratas.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf53_erratas.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/nrf91_erratas.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/system_nrf52.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/modules/nrfx/mdk/system_nrf52_approtect.h

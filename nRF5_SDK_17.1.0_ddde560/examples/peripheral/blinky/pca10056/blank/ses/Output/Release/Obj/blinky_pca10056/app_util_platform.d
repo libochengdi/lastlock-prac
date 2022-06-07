@@ -1,0 +1,26 @@
+Output/Release/Obj/blinky_pca10056/app_util_platform.o: \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util_platform.c \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_util_platform.h \
+ /opt/nordic/ncs/v1.9.1/toolchain/segger_embedded_studio/include/stdint.h \
+ ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
+ ../../../../../../modules/nrfx/mdk/nrf.h \
+ ../../../../../../modules/nrfx/mdk/nrf52840.h \
+ ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
+ ../../../../../../components/toolchain/cmsis/include/cmsis_version.h \
+ ../../../../../../components/toolchain/cmsis/include/cmsis_compiler.h \
+ ../../../../../../components/toolchain/cmsis/include/cmsis_gcc.h \
+ ../../../../../../components/toolchain/cmsis/include/mpu_armv7.h \
+ ../../../../../../modules/nrfx/mdk/system_nrf52840.h \
+ ../../../../../../modules/nrfx/mdk/nrf52840_bitfields.h \
+ ../../../../../../modules/nrfx/mdk/nrf51_to_nrf52840.h \
+ ../../../../../../modules/nrfx/mdk/nrf52_to_nrf52840.h \
+ ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/components/libraries/util/nrf_assert.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error.h \
+ /opt/nordic/ncs/v1.9.1/toolchain/segger_embedded_studio/include/stdio.h \
+ /opt/nordic/ncs/v1.9.1/toolchain/segger_embedded_studio/include/__crossworks.h \
+ /opt/nordic/ncs/v1.9.1/toolchain/segger_embedded_studio/include/stdbool.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/components/libraries/util/sdk_errors.h \
+ ../../../../../../components/drivers_nrf/nrf_soc_nosd/nrf_error.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/components/libraries/util/nordic_common.h \
+ /Users/looki/Desktop/LastLock/nRF5_SDK_17.1.0_ddde560/components/libraries/util/app_error_weak.h
