@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ]
+}
